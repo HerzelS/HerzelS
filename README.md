@@ -6,6 +6,4 @@ I strongly believe in relationships and networking- while I am confident about m
 - 🌱 I’m currently learning/working on advancing my Python skills. 
 - 👯 I’m looking to collaborate on working on different Python and R projects.
 - 🤔 I’m looking for help with Python programming.
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 
