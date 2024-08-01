@@ -1,6 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I strongly believe in relationships and networking- while I am confident about my abilities- I however am where I am right now because of the mentors I have met, the hands I have shaken and the hearts I have touched. From my end, here is what I offer:
+• Vast experience in human rights and gender-responsive monitoring and evaluation with a strong focus on Human Rights data collection, analysis and reporting for Sustainable Development Goals.
+• Databases Management and data analysis: Proficient in SQL for querying and manipulating relational databases on SQL Server, MySQL, PostgreSQL, Docker, RStudio and Microsoft Access. Skilled in SPSS, SQL, NVIVO, Microsoft Excel, R, Python data analysis and statistical modelling.
+• Data pre-processing and cleaning: Skilled in tidy data cleaning techniques, handling missing values and outlier detection.
+• Data Wrangling and manipulation: Experience in using Pandas library in Python, tidy-verse library in R as well as SQL, Visual Basic, SPSS syntax, advanced Excel for data manipulation, merging datasets, and creating derived variables and vectors.
+• Statistical Analysis: Proficient in conducting hypothesis testing, regression analysis, and exploratory data analysis.
+• Data Visualization: Experienced in creating interactive visualizations and dashboards including geospatial data using Microsoft Power BI, R Markdown, R-GGPLOT2, Microsoft Excel Dashboard, SPSS, Flourish, and Canva.
 
-<!--
+I would be happy to connect, network and share with like-minded people…Happy to connect 🤝 !
+
+<--
 **HerzelS/HerzelS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
