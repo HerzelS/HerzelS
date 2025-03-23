@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to My GitHub
 
 ## About Me
-I am **Herzel Shingirirai Mukandi**, an experienced Monitoring & Evaluation (M&E) professional with over **10 years** of expertise in multi-country project evaluations across **Africa, Asia, Europe, and the Americas**. My career has focused on international development, data analytics, research, and capacity building within the **United Nations, INGOs, and CSOs**.
+I am **Herzel Shingirirai Mukandi**, an experienced Monitoring & Evaluation (M&E) and Project Management professional with over **10 years** of expertise in multi-country project evaluations across **Africa, Asia, Europe, and the Americas**. My career has focused on international development, data analytics, research, and capacity building within the **United Nations, INGOs, and CSOs**.
 
 ## 🔍 Areas of Expertise
 - **Monitoring & Evaluation**: Large-scale program evaluations, results frameworks, theories of change.
@@ -26,11 +26,11 @@ I am **Herzel Shingirirai Mukandi**, an experienced Monitoring & Evaluation (M&E
 - 🔭 I’m currently working on Python, R and SQL
 - 🌱 I’m currently learning/working on advancing my Python skills. 
 - 👯 I’m looking to collaborate on different Python and R projects.
-- 🤔 I’m looking for help with Python programming.
+- 🤔 I’m looking for help with Python and R programming.
 
 ## 🌱 Let's Connect!
 - 📧 Email: [mukandiherzel@gmail.com](mailto:mukandiherzel@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/herzelmukandi](https://www.linkedin.com/in/herzelmukandi/)  
 - 🌐 GitHub: [github.com/HerzelS](https://github.com/HerzelS)  
 
-🚀 Let's collaborate on **data-driven insights, evaluation, and innovation in development projects!**
+🚀 Let's collaborate on **data-driven insights, evaluation, and innovation in developmental and humanitarian projects!**
