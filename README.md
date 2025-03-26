@@ -10,7 +10,7 @@ I am **Herzel Shingirirai Mukandi**, an experienced Monitoring & Evaluation (M&E
 - **Innovation & Technology**: AI-based automation in evaluation, interactive dashboards, database design.
 - **Humanitarian & Development Work**: Gender equality, livelihoods, migration, and peacebuilding.
 
-## 🚀 Professional Experience
+## 🚀 Selected Professional Experience
 - **Associate Evaluation Officer**, UNHCR *(2024 - Present)*  
 - **M&E Officer**, UN Women *(2022 - 2024)*  
 - **M&E Specialist**, Young Africa International *(2020 - 2022)*  
