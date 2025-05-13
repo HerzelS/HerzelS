@@ -7,20 +7,15 @@ I am **Herzel Shingirirai Mukandi**, an experienced Monitoring & Evaluation (M&E
 - **Monitoring & Evaluation**: Large-scale program evaluations, results frameworks, theories of change.
 - **Data Science & Visualization**: R, Python, SPSS, Power BI, Tableau, SQL, MySQL.
 - **Project Management**: PMP, PRINCE2, Agile methodologies, risk management.
-- **Innovation & Technology**: AI-based automation in evaluation, interactive dashboards, database design.
+- **Innovation & Technology**: AI-based automation in evaluation, interactive dashboards, and database design.
 - **Humanitarian & Development Work**: Gender equality, livelihoods, migration, and peacebuilding.
 
-## 🚀 Selected Professional Experience
-- **Associate Evaluation Officer**, UNHCR *(2024 - Present)*  
-- **M&E Officer**, UN Women *(2022 - 2024)*  
-- **M&E Specialist**, Young Africa International *(2020 - 2022)*  
-- **Knowledge & Research Manager**, Childline Zimbabwe *(2020 - 2020)*  
-- **M&E Officer**, Legal Resources Foundation *(2017 - 2020)*  
-
-## 🎓 Education & Certifications
-- **Master’s in Social Work**, University of Zimbabwe  
-- **Special Honors in M&E**, Lupane State University  
-- **Certifications**: PMP, PMI-ACP, PMI-RMP, PRINCE2 Foundations
+## Certifications
+- Program Management Professional (PgMP)
+- Project Management Professional (PMP)
+- PMI Agile Certified Practitioner (PMI-ACP)
+- PMI Risk Management Professional (PMI-RMP)
+- Projects in Controlled Environments (PRINCE 2)
 
 ## 🔍 Areas of interest
 - 🔭 I’m currently working on Python, R and SQL
