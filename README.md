@@ -1,7 +1,7 @@
 # Hi there! 👋 Welcome to My GitHub
 
 ## About Me
-I am **Herzel Shingirirai Mukandi**, an experienced Monitoring & Evaluation (M&E) and Project Management professional with over **10 years** of expertise in multi-country project evaluations across **Africa, Asia, Europe, and the Americas**. My career has focused on international development, data analytics, research, and capacity building within the **United Nations, INGOs, and CSOs**.
+I am an experienced Monitoring & Evaluation (M&E) and Project Management professional with over **a decade** of expertise in multi-country projects and programs across **Africa, Asia, Europe, and the Americas**. My career has focused on international development, data analytics, research, and capacity building within the **United Nations, INGOs, and CSOs**.
 
 ## 🔍 Areas of Expertise
 - **Monitoring & Evaluation**: Large-scale program evaluations, results frameworks, theories of change.
