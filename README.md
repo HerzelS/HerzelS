@@ -1,11 +1,11 @@
 # Hi there! 👋 Welcome to My GitHub
 
 ## About Me
-I am an experienced Monitoring & Evaluation (M&E) and Project Management professional with over **a decade** of expertise in multi-country projects and programs across **Africa, Asia, Europe, and the Americas**. My career has focused on international development, data analytics, research, and capacity building within the **United Nations, INGOs, and CSOs**.
+I am a Data Enthusiast experienced in Monitoring & Evaluation (M&E) and Project Management professional with over **a decade** of expertise in multi-country projects and programs across **Africa, Asia, Europe, and the Americas**. My career has focused on international development, data analytics, research, and capacity building within the **United Nations, INGOs, and CSOs**.
 
 ## 🔍 Areas of Expertise
 - **Monitoring & Evaluation**: Large-scale program evaluations, results frameworks, theories of change.
-- **Data Science & Visualization**: R, Python, SPSS, Power BI, Tableau, SQL, MySQL.
+- **Data Science & Visualisation**: R, Python, SPSS, Power BI, Tableau, SQL, MySQL.
 - **Project Management**: PMP, PRINCE2, Agile methodologies, risk management.
 - **Innovation & Technology**: AI-based automation in evaluation, interactive dashboards, and database design.
 - **Humanitarian & Development Work**: Gender equality, livelihoods, migration, and peacebuilding.
